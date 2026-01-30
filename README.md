@@ -47,7 +47,7 @@ We tested **10 different sensors** against the reference samples above. The tabl
 
 ### Conclusion
 As shown in the data, **Sensor #6** provided readings closest to the physical reality (Gravimetric weight).
-![Calibration Data](06_Soil_Sensor/6.JPG)
+![BEST](06_Soil_Sensor/sensor_06.JPG)
 
 
 **Recommendation:** We highly recommend using the sensor model found in folder `06_Soil_Sensor` for projects requiring high precision.
