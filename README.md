@@ -51,9 +51,9 @@ As shown in the data, **Sensor #6** provided readings closest to the physical re
 **Recommendation:** We highly recommend using the sensor model found in folder `06_Soil_Sensor` for projects requiring high precision.
 
 #### Experiment Photos
-![Calibration Data](Experiment_Results_Images/1.jpg)
+![Calibration Data](Experiment_Results_Images/1.JPG)
 
-![Setup](Experiment_Results_Images/2.jpg)
+![Setup](Experiment_Results_Images/2.JPG)
 
 ---
 
