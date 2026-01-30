@@ -6,7 +6,6 @@
 **Struggling to find working code for cheap Chinese industrial soil sensors? You are in the right place.**
 This repository provides **tested drivers, wiring diagrams, and accuracy benchmarks** for the most common RS485 Modbus soil sensors on the market (including NPK 7-in-1, 5-in-1, and standard moisture sensors). We bought 10 different units, reverse-engineered their registers, and tested them against real soil samples so you don't have to.
 
-### 🚀 What This Repo Offers:
 1.  **Plug-and-Play Code:** Verified examples for **ESP32**, **Arduino**, and **Python**.
 2.  **Real-World Benchmark:** A gravimetric calibration test proving which sensor is accurate and which is junk.
 3.  **The Winner:** We identified one specific sensor (Sensor #6) that outperforms the rest.
