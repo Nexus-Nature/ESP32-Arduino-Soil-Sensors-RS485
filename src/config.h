@@ -1,0 +1,6 @@
+#define FILTER_WINDOW 10
+#define SMT100_RX_PIN 40
+#define SMT100_TX_PIN 41
+#define IC_ENABLE 21
+#define VCC_ENABLE 14
+#define P_BUZZER 5
