@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-C++%20%7C%20Python-blue.svg)
 ![Protocol](https://img.shields.io/badge/Protocol-RS485%20Modbus-brightgreen.svg)
 
-![Calibration Data](./Assets/1.JPG)
+![Calibration Data](./docs/experiments/1.JPG)
 
 ## Overview
 **Struggling to find working code for cheap Chinese industrial soil sensors? You are in the right place.**
